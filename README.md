@@ -13,6 +13,7 @@ Integrantes:
 -Gerardo Alejandro Zelaya Arce		ZA242754 
 
 <<---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->>
+
 Indicaciones para la instalación y/o configuración del proyecto:
 
 Paso 1) Abrir Wampserver y esperar al icono verde
