@@ -23,7 +23,7 @@ Paso 2) Colocar la carpeta "Desafio1" en la siguiente ruta: C:\wamp64\www\
 Paso 3) Crear la base de datos:
 
 - Abrir phpMyAdmin: http://localhost/phpmyadmin
-- Damos clic a la opción "import" y seleccionamos nuestro script de Base de Datos, el cual se encuentra dentro de la carpeta "Desafio1" con el nombre de "Script de Base de Datos"
+- Damos clic a la opción "import" y seleccionamos nuestro script de Base de Datos, el cual se encuentra dentro de la carpeta "Desafio1" con el nombre de "Script de Base de Datos.txt"
 - Debemos poder observar la BD "finanzas_db" con las tablas: "usuarios", "entradas", "salidas"
 
 Paso 4) Abrir el proyecto: http://localhost/Desafio1/
